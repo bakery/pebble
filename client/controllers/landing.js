@@ -1,13 +1,6 @@
 LandingController = RouteController.extend({
     template: 'landing',
 
-    before: function () {
-
-    },
-
-    after: function () {
-    },
-
     waitOn: function () {
     },
 

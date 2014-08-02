@@ -8,3 +8,5 @@ Router.map(function () {
     controller : 'LandingController'
   });
 });
+
+Router.onBeforeAction('loading');
