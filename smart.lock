@@ -10,6 +10,9 @@
       },
       "bourbon": {
         "version": "3.1.8.1"
+      },
+      "bootstrap-3": {
+        "version": "3.2.0-1"
       }
     },
     "packages": {
@@ -27,6 +30,11 @@
         "git": "https://github.com/chicagogrooves/meteor-bourbon.git",
         "tag": "v3.1.8.1",
         "commit": "b55f0968fe7d4a2886898cd8e81394de066a3ae1"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.2.0-1",
+        "commit": "17a63902fc6cf1096c5289d963c66cf28b474727"
       },
       "iron-layout": {
         "git": "https://github.com/EventedMind/iron-layout.git",
