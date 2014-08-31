@@ -4,9 +4,7 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-autopublish
 insecure
-iron-router
-scss
-bourbon
-bootstrap-3
+iron:router
+fourseven:scss
+mizzao:bootstrap-3
